@@ -1,20 +1,4 @@
-body{
-    background-color : #fdfdfd;
-    text-align:center;
-}
-
-h1{
-    font-size : 1.2em;
-}
-
-.txt-blue{
-    color: cadetblue;
-}
-
-strong{
-    font-weight:normal;
-}
-
-.txt-rouge{
-    color: red;
+.localisation
+{
+    font-style: italic;
 }
